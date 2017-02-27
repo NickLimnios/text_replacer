@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("TextReplacer")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Text Replacer (TR) is a WinForm project, that allows the user to quickly find and replace the selected text, through multiple files of a given extension, in a directory including folders and sub folders.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("TextReplacer")]

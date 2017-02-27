@@ -1,6 +1,6 @@
 namespace TextReplacer
 {
-    partial class Form1
+    partial class TRForm
     {
         /// <summary>
         /// Required designer variable.
@@ -29,14 +29,14 @@ namespace TextReplacer
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(TRForm));
             this.btnExecute = new System.Windows.Forms.Button();
             this.lblPath = new System.Windows.Forms.Label();
             this.gbMultiFileEditor = new System.Windows.Forms.GroupBox();
-            this.button2 = new System.Windows.Forms.Button();
+            this.btnCounter = new System.Windows.Forms.Button();
             this.cbReplaceEmpty = new System.Windows.Forms.CheckBox();
             this.lbAllowReplaceEmpty = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnBrowser = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.cbFileExt = new System.Windows.Forms.ComboBox();
             this.tbReplaceText = new System.Windows.Forms.TextBox();
@@ -84,11 +84,11 @@ namespace TextReplacer
             // 
             // gbMultiFileEditor
             // 
-            this.gbMultiFileEditor.Controls.Add(this.button2);
+            this.gbMultiFileEditor.Controls.Add(this.btnCounter);
             this.gbMultiFileEditor.Controls.Add(this.cbReplaceEmpty);
             this.gbMultiFileEditor.Controls.Add(this.lbAllowReplaceEmpty);
             this.gbMultiFileEditor.Controls.Add(this.btnExecute);
-            this.gbMultiFileEditor.Controls.Add(this.button1);
+            this.gbMultiFileEditor.Controls.Add(this.btnBrowser);
             this.gbMultiFileEditor.Controls.Add(this.label1);
             this.gbMultiFileEditor.Controls.Add(this.cbFileExt);
             this.gbMultiFileEditor.Controls.Add(this.tbReplaceText);
@@ -107,17 +107,17 @@ namespace TextReplacer
             this.gbMultiFileEditor.TabIndex = 5;
             this.gbMultiFileEditor.TabStop = false;
             // 
-            // button2
+            // btnCounter
             // 
-            this.button2.Location = new System.Drawing.Point(23, 241);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 17;
-            this.button2.Text = "Counter";
-            this.toolTip1.SetToolTip(this.button2, "Count the number of files of the chosen extension,\r\nin the selected directory fol" +
+            this.btnCounter.Location = new System.Drawing.Point(23, 241);
+            this.btnCounter.Name = "btnCounter";
+            this.btnCounter.Size = new System.Drawing.Size(75, 23);
+            this.btnCounter.TabIndex = 17;
+            this.btnCounter.Text = "Counter";
+            this.toolTip1.SetToolTip(this.btnCounter, "Count the number of files of the chosen extension,\r\nin the selected directory fol" +
         "ders and subfolders.");
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.btnCounter.UseVisualStyleBackColor = true;
+            this.btnCounter.Click += new System.EventHandler(this.btnCounter_Click);
             // 
             // cbReplaceEmpty
             // 
@@ -138,17 +138,17 @@ namespace TextReplacer
             this.lbAllowReplaceEmpty.Text = "Replace Empty :";
             this.toolTip1.SetToolTip(this.lbAllowReplaceEmpty, "Check if you want to allow Replace Text \r\nfield to be empty.");
             // 
-            // button1
+            // btnBrowser
             // 
-            this.button1.Location = new System.Drawing.Point(314, 40);
-            this.button1.Margin = new System.Windows.Forms.Padding(0);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(25, 20);
-            this.button1.TabIndex = 14;
-            this.button1.Text = "...";
-            this.button1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.btnBrowser.Location = new System.Drawing.Point(314, 40);
+            this.btnBrowser.Margin = new System.Windows.Forms.Padding(0);
+            this.btnBrowser.Name = "btnBrowser";
+            this.btnBrowser.Size = new System.Drawing.Size(25, 20);
+            this.btnBrowser.TabIndex = 14;
+            this.btnBrowser.Text = "...";
+            this.btnBrowser.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.btnBrowser.UseVisualStyleBackColor = true;
+            this.btnBrowser.Click += new System.EventHandler(this.btnBrowser_Click);
             // 
             // label1
             // 
@@ -342,11 +342,11 @@ namespace TextReplacer
         private System.Windows.Forms.GroupBox gbLog;
         private System.Windows.Forms.TextBox tbLog;
         private System.Windows.Forms.FolderBrowserDialog folderBrowserDialog1;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnBrowser;
         private System.Windows.Forms.CheckBox cbReplaceEmpty;
         private System.Windows.Forms.Label lbAllowReplaceEmpty;
         private System.Windows.Forms.ToolTip toolTip1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btnCounter;
         private System.Windows.Forms.GroupBox groupBox1;
 
 

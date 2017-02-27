@@ -14,9 +14,9 @@ using System.Windows.Forms;
 
 namespace TextReplacer
 {
-    public partial class Form1 : Form
+    public partial class TRForm : Form
     {
-        public Form1()
+        public TRForm()
         {
             InitializeComponent();
         }
@@ -130,7 +130,7 @@ namespace TextReplacer
             this.tbLog.WordWrap = false;
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btnBrowser_Click(object sender, EventArgs e)
         {
             FolderBrowserDialog folderBrowserdlg = new FolderBrowserDialog();
 
@@ -140,7 +140,7 @@ namespace TextReplacer
             }
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void btnCounter_Click(object sender, EventArgs e)
         {
             string path = tbFilePath.Text;
             string fileExt = cbFileExt.Text ?? ".*";

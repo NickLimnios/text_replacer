@@ -1,2 +1,8 @@
 D:\Development\Desktop Development\TextReplacer\TextReplacer\TextReplacer\bin\Debug\TextReplacer.exe.config
 D:\Development\Desktop Development\TextReplacer\textreplacer\bin\Debug\TextReplacer.exe.config
+D:\Development\Desktop Development\TextReplacer\textreplacer\obj\Debug\TextReplacer.csproj.GenerateResource.Cache
+D:\Development\Desktop Development\TextReplacer\textreplacer\bin\Debug\TextReplacer.exe
+D:\Development\Desktop Development\TextReplacer\textreplacer\bin\Debug\TextReplacer.pdb
+D:\Development\Desktop Development\TextReplacer\textreplacer\obj\Debug\TextReplacer.exe
+D:\Development\Desktop Development\TextReplacer\textreplacer\obj\Debug\TextReplacer.pdb
+D:\Development\Desktop Development\TextReplacer\textreplacer\obj\Debug\TextReplacer.TRForm.resources
