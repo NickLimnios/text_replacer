@@ -1,2 +1,0 @@
-12:04 PM 27-Feb-17 :   Edited file C:\Users\Nikos\Desktop\New folder\New folder\New Text Document.txt. Old Value : success, New Value : word. 
-12:04 PM 27-Feb-17 :  Operation Ended. 1 files where edited.
