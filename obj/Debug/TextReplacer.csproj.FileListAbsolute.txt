@@ -6,3 +6,15 @@ D:\Development\Desktop Development\TextReplacer\textreplacer\bin\Debug\TextRepla
 D:\Development\Desktop Development\TextReplacer\textreplacer\obj\Debug\TextReplacer.exe
 D:\Development\Desktop Development\TextReplacer\textreplacer\obj\Debug\TextReplacer.pdb
 D:\Development\Desktop Development\TextReplacer\textreplacer\obj\Debug\TextReplacer.TRForm.resources
+C:\Users\nlimnios\Development\WinForm Projects\textreplacer\obj\Debug\TextReplacer.TRForm.resources
+C:\Users\nlimnios\Development\WinForm Projects\textreplacer\obj\Debug\TextReplacer.csproj.GenerateResource.Cache
+C:\Users\nlimnios\Development\WinForm Projects\textreplacer\obj\Debug\TextReplacer.csproj.CoreCompileInputs.cache
+C:\Users\nlimnios\Development\WinForm Projects\textreplacer\obj\Debug\TextReplacer.exe
+C:\Users\nlimnios\Development\WinForm Projects\textreplacer\obj\Debug\TextReplacer.pdb
+C:\Users\nlimnios\Development\WinForm Projects\textreplacer\bin\Debug\log4net.config
+C:\Users\nlimnios\Development\WinForm Projects\textreplacer\bin\Debug\TextReplacer.exe.config
+C:\Users\nlimnios\Development\WinForm Projects\textreplacer\bin\Debug\TextReplacer.exe
+C:\Users\nlimnios\Development\WinForm Projects\textreplacer\bin\Debug\TextReplacer.pdb
+C:\Users\nlimnios\Development\WinForm Projects\textreplacer\bin\Debug\log4net.dll
+C:\Users\nlimnios\Development\WinForm Projects\textreplacer\bin\Debug\log4net.xml
+C:\Users\nlimnios\Development\WinForm Projects\textreplacer\obj\Debug\TextReplacer.Resources.resources
